@@ -1,10 +1,9 @@
 # Semantic-Segmentation
 ## Prepare Data
 >Weizmann-Horse in Kaggle is available https://www.kaggle.com/datasets/ztaihong/weizmann-horse-database/metadata
+The dataset provides horses images and mask images. 
+the final path structure used in my code looks like this:
 
->The dataset provides horses images and mask images. 
-
->The final path structure used in my code looks like this:
 '''
  dataset 
  ├──── horse 
