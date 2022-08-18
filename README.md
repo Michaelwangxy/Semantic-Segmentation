@@ -8,7 +8,11 @@
 Report the metrics on the validation set on the Weizmann Horse dataset (https://www.kaggle.com/datasets/ztaihong/weizmann-horse-database/metadata) (the training validation set is randomly divided by the ratio of 0.85:0.15), metrics Including mIoU and Boundary IoU (Boundary IoU: Improving Object-Centric Image Segmentation Evaluation, CVPR'21) (reference indicator: the mIoU indicator reported by the model should be around 0.9 is normal);
 Organize the assignment into a report submission, submit the relevant code to github, attach the link to the github repository in the report, and use MarkDown to write the code running instructions in ReadMe (refer to the format of https://github.com/poppinace/indexnet_matting) , the download link of the trained model should be attached, and the results of running the model should be consistent with the report.
 
-## 
+## UNet & U2Net
+Both of the models are tried in this assignment
+For details of model , please visit :
+https://arxiv.org/abs/1505.04597 UNet
+https://arxiv.org/pdf/2005.09007 U2Net
 
 ## Prepare Data
 >Weizmann-Horse in Kaggle is available https://www.kaggle.com/datasets/ztaihong/weizmann-horse-database/metadata
