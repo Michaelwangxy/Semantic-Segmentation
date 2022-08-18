@@ -41,7 +41,7 @@ The evaluation indicators of the model are determined by MIoU and BIoU, and the 
 
 There is basically no computing power requirement for model training. Because the trained model is trained on the laptop.
 
-You can use the [pretrained models](https://github.com/Michaelwangxy/Semantic-Segmentation/releases) to evaluate without training.
+You can use the [pretrained models](https://github.com/Michaelwangxy/Semantic-Segmentation/releases) to evaluate without training.(releases!)
 
 ## Citation
 
